@@ -47,5 +47,5 @@ body{
 .button:hover {
     background-color: #d5c458;
     color: white;
-    transition: 0.15s ease-in-out;
+    transition: 0.1s ease-in-out;
 }
